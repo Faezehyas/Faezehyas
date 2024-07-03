@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on big projects to build for mobile, web, and other OSs.  
 - 📫 How to reach me   
   - faezeh.yass@gmail.com  
-  - https://www.linkedin.com/in/faezeh-yas/  
+  - https://www.linkedin.com/in/faezehyas/  
