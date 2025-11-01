@@ -20,8 +20,3 @@ I build **cross-platform**, **scalable**, and **test-driven** applications for A
 - **Backend & Tools:** Firebase, SQL, Hive, Git, Widgetbook  
 - **Testing:** Unit, Widget, Integration  
 
----
-
-### 📫 Connect
-- [LinkedIn](linkedin.com/in/faezehyas)  
-
